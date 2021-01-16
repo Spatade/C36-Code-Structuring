@@ -1,1 +1,2 @@
-# C36-Code-Structuring
+# synchronousBallMovement
+Ball moving synchronously
